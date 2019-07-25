@@ -1,0 +1,3 @@
+rootProject.name = 'Botare'
+
+include ':app'
